@@ -1,6 +1,11 @@
 public class Participant {
 
     /*
+    Create 3-args constructor which takes name, age and gender
+     */
+
+
+    /*
     Declare static instance variables to store below information
     total number of participants -> variable name can be totalNumberOfParticipants
     total number of male participants -> variable name can be totalNumberOfMaleParticipants
