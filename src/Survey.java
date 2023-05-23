@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class Survey {
     public static void main(String[] args) {
@@ -14,6 +15,8 @@ public class Survey {
         -Print the age of the youngest person
         -Print the age of the eldest person
          */
+
+        Scanner input = new Scanner(System.in);
 
     }
 }

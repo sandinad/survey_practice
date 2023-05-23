@@ -8,4 +8,7 @@ public class SurveyQuestions {
     What is your gender? (F/M) -> -> variable name can be askGender
      */
 
+    public static final String askToJoin = "Would you like to join our survey?";
+
+
 }
